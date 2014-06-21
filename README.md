@@ -1,0 +1,4 @@
+mean.boilerplate
+================
+
+Mean boilerplate
